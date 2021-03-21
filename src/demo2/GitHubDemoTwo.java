@@ -8,7 +8,7 @@ public static void main(String[] args) {
 
 }
 public static void nameIs() {
-	System.out.println("Name Is: Lakhan");
+	System.out.println("My Name Is Lakhan");
 
 }
 }
